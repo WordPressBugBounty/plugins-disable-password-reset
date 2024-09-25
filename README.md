@@ -1,0 +1,1 @@
+# plugins-disable-password-reset
